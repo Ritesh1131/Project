@@ -36,8 +36,6 @@ jQuery and JavaScript
 
 Springboot Security as authentication & authorization.
 
-Springboot multipart support for upload file.
-
 Scrum/Agile Development Process
 
 Maven
